@@ -1,6 +1,5 @@
-# Testing a readme
-  ## License:
-  ​[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Readme
+   ​![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ​
 ## Table of Contents 
 * [Description](#description)
@@ -18,20 +17,20 @@
 * [Questions](#questions)
 ​
 ## Description:
-about a readme
+About a professional readme
 ## Installation
-like a regular coding project
+node js/vs code
 ## Usage
-
+answer the questions and it create a readme file
 ## License
 MIT
 ## Contributors
-myself
+Mirella
 
 ## Tests
 
 
 ## Questions
-
+later
 
 
