@@ -3,7 +3,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
-Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). Review the [Good README Guide](../../01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md) as a reminder of everything that a high-quality, professional README should contain. 
+I  created a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
 
 The application will be invoked by using the following command:
 
@@ -44,18 +44,9 @@ Here are some guidelines to help you get started:
 
 * Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
 
-## Grading Requirements
 
-This Challenge is graded based on the following criteria: 
+## Criteria: 
 
-### Deliverables: 20%
 
-* A sample README generated using the application must be submitted.
-
-* Your GitHub repository containing your application code.
-
-### Technical Acceptance Criteria: 55%
-
-* Satisfies all of the above acceptance criteria plus the following:
 
 	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
