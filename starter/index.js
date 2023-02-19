@@ -5,46 +5,46 @@ const generateMarkdown = require("./generateMarkdown");
 
 // array of questions for user
 const questions = [{
-    type:'input',
+    type: 'input',
     name: 'Title',
-    message:'What is your project title?'
+    message: 'What is your project title?'
 },
 {
-    type:'input',
-    name:'Description',
+    type: 'input',
+    name: 'Description',
     message: 'What is your project about?'
 },
 {
-    type:'input',
-    name:'Installation',
-    message:'How do you install your project?'
+    type: 'input',
+    name: 'Installation',
+    message: 'How do you install your project?'
 },
 {
     type: 'input',
     name: 'Usage',
-    message:'How do you use it?'
+    message: 'How do you use it?'
 },
 {
-    type:'checkbox',
+    type: 'checkbox',
     name: 'License',
-    message:'Which licence are you applying for?',
+    message: 'Which licence are you applying for?',
     choices: ['MIT', 'Apache', 'Mozilla', 'none']
 },
 {
-    type:'input',
-    name:'Contributors',
-    mesage:'Please list any contributors for the project'
+    type: 'input',
+    name: 'Contributors',
+    mesage: 'Please list any contributors for the project'
 
 },
 {
-    type:'input',
-    name:'Tests',
-    message:'Please link live url'
+    type: 'input',
+    name: 'Tests',
+    message: 'Please link live url'
 },
 {
-    type:'input',
+    type: 'input',
     name: 'Questions',
-    message:'Please insert you email address and github link'
+    message: 'Please insert you email address and github link'
 }
 
 ];
@@ -52,8 +52,8 @@ const questions = [{
 // function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, generateMarkdown(data), (err) =>
-    err ? console.error(err) : console.log('Your README is ready!')
-);        
+        err ? console.error(err) : console.log('Your README is ready!')
+    );
 }
 
 // function to initialize program
