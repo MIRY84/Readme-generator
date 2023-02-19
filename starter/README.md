@@ -1,6 +1,6 @@
-# tttt
+# Testing a readme
   ## License:
-  ​[![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)(http://shields.io/)
+  ​[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ​
 ## Table of Contents 
 * [Description](#description)
@@ -18,20 +18,20 @@
 * [Questions](#questions)
 ​
 ## Description:
-asjfkasj
+about a readme
 ## Installation
-its about the
+like a regular coding project
 ## Usage
-like it
+
 ## License
-Apache
+MIT
 ## Contributors
-none
+myself
 
 ## Tests
 
 
 ## Questions
-asfhah
+
 
 
