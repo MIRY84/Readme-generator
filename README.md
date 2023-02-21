@@ -56,6 +56,7 @@ MIT
 
 ## Questions
 You can contact me at mirella.dimichino@gmail.com for enquiries
+Alternatively you can check my Github : https://github.com/MIRY84/Readme-generator
 
 
 
