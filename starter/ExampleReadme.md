@@ -1,5 +1,5 @@
 # Readme-generator
-   ​![GitHub license](https://img.shields.io/badge/license--blue.svg)
+   ​![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ​
 ## Table of Contents 
 * [Description](#description)
@@ -17,15 +17,15 @@
 * [Questions](#questions)
 ​
 ## Description:
-it is about an app that dinamically create a Readme through users'prompts
+It is an app which helps you create a professional Readme through node.js
 ## Installation
-You will need to install npm package with enquirer and you should have already vs code 
+You will need vs code, install npm and node,js/ enquirer
 ## Usage
-You use it for professional readme through a backend app
+you use it with command line node index.js
 ## License
-
+MIT
 ## Contributors
-N/A
+n/a
 
 ## Tests
 https://github.com/
