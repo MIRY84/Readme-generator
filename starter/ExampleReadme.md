@@ -10,27 +10,27 @@
 ​
 * [License](#license)
 ​
-* [Contributing](#contributing-here-is-a-header)
+* [Contributors](#contributing-here-is-a-header)
 ​
 * [Tests](#tests)
 ​
 * [Questions](#questions)
 ​
 ## Description:
-It is an app which helps you create a professional Readme through node.js
+It is an app to help developers dinamically creating a Readme with node.js
 ## Installation
-You will need vs code, install npm and node,js/ enquirer
+First of all you will install npm package with all dependencies, inquirer, node.js
 ## Usage
-you use it with command line node index.js
+You open the terminal and input node index.js.... It will ask you some question you will reply
 ## License
 MIT
 ## Contributors
-n/a
+N/A
 
 ## Tests
-https://github.com/
+This is how it functions , please follow this link https://drive.google.com/file/d/1UB9VsyFW4eIN05N8XA8xclUHcj7eWMH-/view
 
 ## Questions
-mirella.dimichino@gmail.com
+for any question please do contact at ,my github profile https://github.com/MIRY84/Readme-generator
 
 
