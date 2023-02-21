@@ -38,21 +38,24 @@ node index.js
 
 ## Getting Started
 
-Here are some guidelines to help you get started:
+* I Created a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that my `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
 
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
-
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
+*I made sure that my repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
 
 
 ## Criteria: 
 
-
-
-	* [Inquirer package](https://www.npmjs.com/package/inquirer).
+ *(https://www.npmjs.com/package/inquirer).
 
 ## TEST
 https://drive.google.com/file/d/1UB9VsyFW4eIN05N8XA8xclUHcj7eWMH-/view
 This is the explanatory video
+
+##License
+MIT
+
+## Questions
+You can contact me at mirella.dimichino@gmail.com for enquiries
+
 
 
