@@ -12,7 +12,7 @@ function generateMarkdown(data) {
 ​
 * [License](#license)
 ​
-* [Contributing](#contributing-here-is-a-header)
+* [Contributors](#contributing-here-is-a-header)
 ​
 * [Tests](#tests)
 ​
