@@ -45,13 +45,13 @@ node index.js
 
 ## Criteria: 
 
- *(https://www.npmjs.com/package/inquirer).
+ https://www.npmjs.com/package/inquirer
 
 ## TEST
 https://drive.google.com/file/d/1UB9VsyFW4eIN05N8XA8xclUHcj7eWMH-/view
 This is the explanatory video
 
-##License
+## License
 MIT
 
 ## Questions
