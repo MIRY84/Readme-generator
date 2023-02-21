@@ -39,12 +39,12 @@ const questions = [{
 {
     type: 'input',
     name: 'Tests',
-    message: 'Please link live url'
+    message: 'Please follow the link live at:'
 },
 {
     type: 'input',
-    name: 'Questions',
-    message: 'Please insert you email address and github link'
+    name: 'Email',
+    message: 'Please insert you email address and/or github link should you have any questions:'
 }
 
 ];
@@ -58,7 +58,7 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-    inquirer.prompt(questions).then((answers) => writeToFile('README.md', answers))
+    inquirer.prompt(questions).then((answers) => writeToFile('ExampleREADME.md', answers))
 }
 
 

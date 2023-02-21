@@ -33,7 +33,7 @@ ${data.Contributors}
 ${data.Tests}
 
 ## Questions
-${data.Questions}
+${data.Email}
 
 
 `;
